@@ -1,0 +1,21 @@
+---
+title: "Traffic Poster Competition"
+image: "background.png"
+links:
+  - label: Gallery
+    url: "photo/index.html"
+  - label: Vote 
+    url: "https://forms.gle/Zg1ueZzDd5yReiLn9"
+  - label: Email
+    url: "mailto:beth.arnold@westbridgford-jun.notts.sch.uk"
+output:
+  postcards::jolla
+---
+
+Use **Gallery** link above to see the art work. Note down your **three** favourite poster entries (numbers between **0** and **169**). Submit your three votes on the by clicking the **Vote** link.
+
+>Note for mobile users: both links will open new tabs on your browser
+
+
+
+ 
